@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **React, Bootstrap, CSS, HTML, JavaScript**
 
-- 📫 How to reach me **aniketmoharana87@gmail.com**
+- 📄 Know about my experiences [https://www.overleaf.com/read/bxwpvtznvjms](https://www.overleaf.com/read/bxwpvtznvjms)
 
 - ⚡ Fun fact **I think I'm funny**
 
