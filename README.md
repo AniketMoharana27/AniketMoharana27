@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmoharana27&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmoharana27" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://aniketmoharana-portfolio.netlify.app/](https://aniketmoharana-portfolio.netlify.app/)
-
 - 💬 Ask me about **React, Bootstrap, CSS, HTML, JavaScript**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/bxwpvtznvjms](https://www.overleaf.com/read/bxwpvtznvjms)
+- 👨‍💻 All of my projects are available at [portfolio website](https://aniketmoharana-portfolio.netlify.app/)
+
+- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/10KOCvr6Qe86vnrNiQB1cgyC4IlYHazCL/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm funny**
 
@@ -21,6 +21,9 @@
   <a href="https://www.linkedin.com/in/aniket-moharana-32869a218/" rel="nofollow">
    <img src="https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67" width="50px" data-canonical-src="https://img.icons8.com/color/48/000000/linkedin.png" style="max-width:100%;">
     </a><span>&nbsp;</span>
+    <a href="https://dribbble.com/https://dribbble.com/aniketmoharan27" target="blank">
+        <img src="https://img.icons8.com/fluency/48/000000/dribbble.png" style="max-width:100%;">
+        </a><span>&nbsp;</span>
   <a href="mailto:mail.aniketmoharana87@gmail.com">
     <img src="https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67" width="50px" data-canonical-src="https://img.icons8.com/fluent/48/000000/gmail.png" style="max-width:100%;">
   </a><span>&nbsp;</span>
